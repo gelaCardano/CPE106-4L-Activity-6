@@ -1,0 +1,84 @@
+[{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae228c"
+  },
+  "track_id": 1,
+  "Name": "Come Together",
+  "MediaTypeId": 1,
+  "GenreId": 1,
+  "Composer": "John Lennon, Paul McCartney",
+  "Milliseconds": 259000,
+  "Bytes": 4186033,
+  "UnitPrice": 0.99,
+  "album_id": 1
+},
+{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae228d"
+  },
+  "track_id": 2,
+  "Name": "Something",
+  "MediaTypeId": 1,
+  "GenreId": 1,
+  "Composer": "George Harrison",
+  "Milliseconds": 182000,
+  "Bytes": 3676543,
+  "UnitPrice": 0.99,
+  "album_id": 1
+},
+{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae228e"
+  },
+  "track_id": 3,
+  "Name": "Bohemian Rhapsody",
+  "MediaTypeId": 1,
+  "GenreId": 2,
+  "Composer": "Freddie Mercury",
+  "Milliseconds": 354000,
+  "Bytes": 5382033,
+  "UnitPrice": 1.29,
+  "album_id": 2
+},
+{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae228f"
+  },
+  "track_id": 4,
+  "Name": "Love of My Life",
+  "MediaTypeId": 1,
+  "GenreId": 2,
+  "Composer": "Freddie Mercury",
+  "Milliseconds": 217000,
+  "Bytes": 3256033,
+  "UnitPrice": 0.99,
+  "album_id": 2
+},
+{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae2290"
+  },
+  "track_id": 5,
+  "Name": "Hells Bells",
+  "MediaTypeId": 1,
+  "GenreId": 3,
+  "Composer": "Angus Young, Malcolm Young, Brian Johnson",
+  "Milliseconds": 312000,
+  "Bytes": 4786033,
+  "UnitPrice": 0.99,
+  "album_id": 3
+},
+{
+  "_id": {
+    "$oid": "67af21500c81d58df0ae2291"
+  },
+  "track_id": 6,
+  "Name": "Back in Black",
+  "MediaTypeId": 1,
+  "GenreId": 3,
+  "Composer": "Angus Young, Malcolm Young, Brian Johnson",
+  "Milliseconds": 255000,
+  "Bytes": 3982033,
+  "UnitPrice": 0.99,
+  "album_id": 3
+}]

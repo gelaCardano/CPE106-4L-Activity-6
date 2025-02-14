@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "67aefef50c81d58df0ae21f9"
+  },
+  "name": "The Beatles",
+  "artist_id": 1
+},
+{
+  "_id": {
+    "$oid": "67aefef50c81d58df0ae21fa"
+  },
+  "name": "Queen",
+  "artist_id": 2
+},
+{
+  "_id": {
+    "$oid": "67aefef50c81d58df0ae21fb"
+  },
+  "name": "AC/DC",
+  "artist_id": 3
+}]
